@@ -104,7 +104,7 @@ Loss: L = BCE(recon, x) + β × KL(N(μ,σ²) || N(0,I))
 
 Click the badge above or open:
 ```
-https://colab.research.google.com/github/Saggy7276/cellshape3d-vae/blob/main/CellShape3D_VAE.ipynb
+https://colab.research.google.com/drive/104sCtTZ3gL_Z1zd7W586SYcWcT0hy_Ml#scrollTo=JdCZAXHaZgu4
 ```
 Set runtime to **T4 GPU** → Run All. The synthetic data path runs without any download.
 
